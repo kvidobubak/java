@@ -85,21 +85,3 @@ public class ArrayOperations {
         System.out.println("The average value is: " + avg);
     }
 }
-
-
-/*******/
-    public static void main(String[] args) {
-        // Test array
-        int[] numbers = {10, 20, 30, 40, 50};
-        
-        // Find and display maximum, minimum, and average
-        int max = findMax(numbers);
-        int min = findMin(numbers);
-        double avg = findAverage(numbers);
-        
-        System.out.println("The maximum value is: " + max);
-        System.out.println("The minimum value is: " + min);
-        System.out.println("The average value is: " + avg);
-    }
-}
-**********/
