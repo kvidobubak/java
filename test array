@@ -162,6 +162,7 @@ public class ArrayOperations {
 /** Netbeans */
  /** Netbeans */
 
+/***********************************************/
 /** COPY **/
     // Method to calculate the average of an array
     public static double findAverage(int[] arr) {
