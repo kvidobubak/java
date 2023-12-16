@@ -208,3 +208,14 @@ public class ArrayOperations {
         }
         return (double) sum / arr.length;
     }
+
+/***********************************************/
+/** COPY **/
+    // Method to calculate the average of an array
+    public static double findAverage(int[] arr) {
+        int sum = 0;
+        for (int i = 0; i < arr.length; i++) {
+            sum += arr[i];
+        }
+        return (double) sum / arr.length;
+    }
