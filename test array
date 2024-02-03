@@ -234,12 +234,7 @@ public class ArrayOperations {
             sum += arr[i];
         }
         return (double) sum / arr.length;
-    }
 
- /** Netbeans */
-/***********************************************/
-
-/************************************************
 /** COPY **/
 
  /** Netbeans */
