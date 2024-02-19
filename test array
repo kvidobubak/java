@@ -10,7 +10,6 @@ public class ArrayOperations {
             }
         }
         return max;
-
     }
     
     // Method to find the minimum value in an array
