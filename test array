@@ -257,7 +257,6 @@ public class ArrayOperations {
         }
         return (double) sum / arr.length;
 
-
 /************************************************
 /** COPY **/
 
