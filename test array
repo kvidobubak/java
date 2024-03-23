@@ -11,7 +11,6 @@ public class ArrayOperations {
         }
         return max;
     }
-    
     // Method to find the minimum value in an array
     public static int findMin(int[] arr) {
         int min = arr[0];
