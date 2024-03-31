@@ -323,7 +323,6 @@ public class ArrayOperations {
     }
 
 /** COPY ************************************************************************/
-  /** COPY ************************************************************************/
      // Method to find the minimum value in an array
     public static int findMin(int[] arr) {
         int min = arr[0];
