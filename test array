@@ -35,6 +35,8 @@ public class ArrayOperations {
         }
         return min;
     }
+
+
     // Method to calculate the average of an array
     public static double findAverage(int[] arr) {
         int sum = 0;
@@ -43,6 +45,8 @@ public class ArrayOperations {
         }
         return (double) sum / arr.length;
     }
+
+
 
     public static void main(String[] args) {
         // Test array
